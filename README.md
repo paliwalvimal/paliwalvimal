@@ -1,4 +1,4 @@
-<p align="center"><a href="https://vimalpaliwal.com"><img width=450 src="https://vimalpaliwal.com/images/logo.svg" /></a></p>
+<p align="center"><a href="https://vimalpaliwal.com"><img width=400 src="https://vimalpaliwal.com/images/logo.svg" /></a></p>
 
 <p align="center"><a href="https://medium.com/@vimalpaliwal.com"><img width=30 src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" /></a> &nbsp; <a href="https://linkedin.com/in/paliwalvimal"><img width=30 src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" /></a> &nbsp; <a href="https://github.com/terrablocks"><img width=30 src="https://vimalpaliwal.com/images/terrablocks.png" /></a></p>
 
