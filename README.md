@@ -29,8 +29,8 @@ Hey there 👋
 ### Clients:
 <p align="center">
     <img width=150 src="https://vimalpaliwal.com/images/clients/modus-create.png" /> &nbsp;  &nbsp; 
-    <img width=150 src="https://vimalpaliwal.com/images/clients/coditas.png" /> &nbsp;  &nbsp; 
     <img width=150 src="https://vimalpaliwal.com/images/clients/toptal.png" /> &nbsp;  &nbsp; 
+    <img width=150 src="https://vimalpaliwal.com/images/clients/coditas.png" /> &nbsp;  &nbsp; 
     <img width=150 src="https://vimalpaliwal.com/images/clients/trainocate.png" /> &nbsp;  &nbsp; 
     <img width=150 src="https://vimalpaliwal.com/images/clients/whizlabs.png" /> &nbsp;  &nbsp; 
     <img width=150 src="https://vimalpaliwal.com/images/clients/eximchain.png" /> &nbsp;  &nbsp; 
@@ -45,15 +45,15 @@ Hey there 👋
 ***
 
 ### Recent Posts:
-<table style="border: none; width: 100%">
+<table>
     <tr>
-        <td style="border: none;">
+        <td>
             <h4><a href="https://medium.com/@vimalpaliwal.com/how-to-integrate-amazon-efs-with-lambda-f186c02893b4">INTEGRATING AMAZON EFS WITH LAMBDA</a></h4>
             <p>Detailed step-by-step guide on integrating AWS EFS(Elastic File System) with Lambda. This allows AWS Lambda to store files larger than 512MB in size.</p>
             <p><a href="https://medium.com/@vimalpaliwal.com/how-to-integrate-amazon-efs-with-lambda-f186c02893b4">Read this article :point_right:</a></p>
             <p><a href="https://vimalpaliwal.com/#blogs">Checkout other blogs</a></p>
         </td>
-        <td style="border: none;"><a href="https://medium.com/@vimalpaliwal.com/how-to-integrate-amazon-efs-with-lambda-f186c02893b4"><img width=600 src="https://vimalpaliwal.com/blog/2020/06/2605f3a304/blog-1.jpg" /></a></td>
+        <td><a href="https://medium.com/@vimalpaliwal.com/how-to-integrate-amazon-efs-with-lambda-f186c02893b4"><img width=700 src="https://vimalpaliwal.com/blog/2020/06/2605f3a304/blog-1.jpg" /></a></td>
     </tr>
 </table>
 
