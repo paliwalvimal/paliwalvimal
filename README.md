@@ -29,7 +29,7 @@ Hey there 👋
 ### Tools I play with:
 <p align="center">
     <img width=90 src="https://vimalpaliwal.com/images/aws.png?1" /> &nbsp; &nbsp; 
-    <img width=90 src="https://vimalpaliwal.com/images/terraform.png?1" /> &nbsp; &nbsp; 
+    <img width=90 src="https://vimalpaliwal.com/images/terraform.png?3" /> &nbsp; &nbsp; 
     <img width=90 src="https://vimalpaliwal.com/images/k8s.png?1" /> &nbsp; &nbsp; 
     <img width=90 src="https://vimalpaliwal.com/images/gitlab.png?1" /> &nbsp; &nbsp; 
     <img width=90 src="https://vimalpaliwal.com/images/jenkins.png?1" /> &nbsp; &nbsp; 
