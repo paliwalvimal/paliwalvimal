@@ -28,13 +28,13 @@ Hey there 👋
 
 ### Tools I play with:
 <p align="center">
-    <img width=90 src="https://vimalpaliwal.com/images/aws.png" /> &nbsp; &nbsp; 
-    <img width=90 src="https://vimalpaliwal.com/images/terraform.png" /> &nbsp; &nbsp; 
-    <img width=90 src="https://vimalpaliwal.com/images/k8s.png" /> &nbsp; &nbsp; 
-    <img width=90 src="https://vimalpaliwal.com/images/gitlab.png" /> &nbsp; &nbsp; 
-    <img width=90 src="https://vimalpaliwal.com/images/jenkins.png" /> &nbsp; &nbsp; 
-    <img width=90 src="https://vimalpaliwal.com/images/bash.png" /> &nbsp; &nbsp; 
-    <img width=90 src="https://vimalpaliwal.com/images/python.png" />
+    <img width=90 src="https://vimalpaliwal.com/images/aws.png?1" /> &nbsp; &nbsp; 
+    <img width=90 src="https://vimalpaliwal.com/images/terraform.png?1" /> &nbsp; &nbsp; 
+    <img width=90 src="https://vimalpaliwal.com/images/k8s.png?1" /> &nbsp; &nbsp; 
+    <img width=90 src="https://vimalpaliwal.com/images/gitlab.png?1" /> &nbsp; &nbsp; 
+    <img width=90 src="https://vimalpaliwal.com/images/jenkins.png?1" /> &nbsp; &nbsp; 
+    <img width=90 src="https://vimalpaliwal.com/images/bash.png?1" /> &nbsp; &nbsp; 
+    <img width=90 src="https://vimalpaliwal.com/images/python.png?1" />
 </p>
 
 ***
