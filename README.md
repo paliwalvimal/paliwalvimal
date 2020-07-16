@@ -26,6 +26,19 @@ Hey there 👋
 
 ***
 
+### Tools I play with:
+<p align="center">
+    <img width=90 src="https://vimalpaliwal.com/images/aws.png" /> &nbsp; &nbsp; 
+    <img width=90 src="https://vimalpaliwal.com/images/terraform.png" /> &nbsp; &nbsp; 
+    <img width=90 src="https://vimalpaliwal.com/images/k8s.png" /> &nbsp; &nbsp; 
+    <img width=90 src="https://vimalpaliwal.com/images/gitlab.png" /> &nbsp; &nbsp; 
+    <img width=90 src="https://vimalpaliwal.com/images/jenkins.png" /> &nbsp; &nbsp; 
+    <img width=90 src="https://vimalpaliwal.com/images/bash.png" /> &nbsp; &nbsp; 
+    <img width=90 src="https://vimalpaliwal.com/images/python.png" />
+</p>
+
+***
+
 ### Clients:
 <p align="center">
     <img width=150 src="https://vimalpaliwal.com/images/clients/modus-create.png" /> &nbsp;  &nbsp; 
