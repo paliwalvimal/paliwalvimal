@@ -61,12 +61,12 @@ Hey there 👋
 <table>
     <tr>
         <td>
-            <h4><a href="https://medium.com/@vimalpaliwal.com/how-to-integrate-amazon-efs-with-lambda-f186c02893b4">INTEGRATING AMAZON EFS WITH LAMBDA</a></h4>
-            <p>Detailed step-by-step guide on integrating AWS EFS(Elastic File System) with Lambda. This allows AWS Lambda to store files larger than 512MB in size.</p>
-            <p><a href="https://medium.com/@vimalpaliwal.com/how-to-integrate-amazon-efs-with-lambda-f186c02893b4">Read this article :point_right:</a></p>
+            <h4><a href="https://medium.com/@vimalpaliwal.com/how-to-expose-aws-http-api-gateway-via-aws-cloudfront-16383f45704b">EXPOSING HTTP API GATEWAY VIA AWS CLOUDFRONT</a></h4>
+            <p>As HTTP API Gateway does not support edge optimised endpoint hence in this blog, we will go step-by-step on how you can serve the new HTTP API Gateway via AWS CloudFront.</p>
+            <p><a href="https://medium.com/@vimalpaliwal.com/how-to-expose-aws-http-api-gateway-via-aws-cloudfront-16383f45704b">Read this article :point_right:</a></p>
             <p><a href="https://vimalpaliwal.com/#blogs">Checkout other blogs</a></p>
         </td>
-        <td><a href="https://medium.com/@vimalpaliwal.com/how-to-integrate-amazon-efs-with-lambda-f186c02893b4"><img width=700 src="https://vimalpaliwal.com/blog/2020/06/2605f3a304/blog-1.jpg" /></a></td>
+        <td><a href="https://medium.com/@vimalpaliwal.com/how-to-expose-aws-http-api-gateway-via-aws-cloudfront-16383f45704b"><img width=700 src="https://vimalpaliwal.com/blog/2020/07/7b172efff6/blog-1.png" /></a></td>
     </tr>
 </table>
 
