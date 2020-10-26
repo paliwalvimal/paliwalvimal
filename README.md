@@ -6,7 +6,7 @@
 
 Hey there 👋
 
-:man_technologist: &nbsp; I'm **Cloud/DevOps Engineer** and an **Authorised AWS & GCP Trainer**. I have been implementing, consulting and training for more than 4 years now.
+:man_technologist: &nbsp; I'm **Cloud/DevOps Engineer** and an **Authorised AWS Trainer**. I have been implementing, consulting and training on cloud for more than 4 years now.
 
 :open_book: &nbsp; My small contribution to community: [secureaws](https://github.com/paliwalvimal/secureaws "secureaws"), [terrablocks](https://github.com/terrablocks "terrablocks")
 
