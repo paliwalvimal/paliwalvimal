@@ -1,4 +1,4 @@
-<p align="center"><a href="https://vimalpaliwal.com"><img width=400 src="https://vimalpaliwal.com/images/logo.svg" /></a></p>
+<p align="center"><a href="https://vimalpaliwal.com"><img width=400 src="https://vimalpaliwal.com/images/logo.png" /></a></p>
 
 <p align="center"><a href="https://vimalpaliwal.medium.com"><img width=30 src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" /></a> &nbsp; <a href="https://linkedin.com/in/paliwalvimal"><img width=30 src="https://vimalpaliwal.com/images/linkedin.svg?1" /></a> &nbsp; <a href="https://www.youtube.com/channel/UCeeJwbuN9q5Fx0y47XK3hcA"><img width=35 src="https://vimalpaliwal.com/images/youtube.svg" /></a> &nbsp; <a href="https://github.com/terrablocks"><img width=30 src="https://vimalpaliwal.com/images/terrablocks.png" /></a></p>
 
@@ -6,7 +6,7 @@
 
 Hey there 👋
 
-:man_technologist: &nbsp; I'm **Cloud/DevOps Engineer** and an **Authorised AWS Trainer**. I have been implementing, consulting and training on cloud for more than 4 years now.
+:man_technologist: &nbsp; I'm **Cloud/DevOps Engineer** and an **AWS Authorised Instructor - Champion**. I have been implementing, consulting and training on cloud for more than 4 years now.
 
 :open_book: &nbsp; My small contribution to community: [secureaws](https://github.com/paliwalvimal/secureaws "secureaws"), [terrablocks](https://github.com/terrablocks "terrablocks")
 
@@ -20,8 +20,6 @@ Hey there 👋
     <img width=120 src="https://vimalpaliwal.com/images/certificates/aws-saa.png" /> &nbsp; 
     <img width=120 src="https://vimalpaliwal.com/images/certificates/aws-da.png" /> &nbsp; 
     <img width=120 src="https://vimalpaliwal.com/images/certificates/aws-soa.png" /> &nbsp; 
-    <img width=120 src="https://vimalpaliwal.com/images/certificates/gcp-cca.png" /> &nbsp; 
-    <img width=120 src="https://vimalpaliwal.com/images/certificates/gcp-cce.png" /> &nbsp; 
 </p>
 
 ***
