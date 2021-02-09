@@ -8,7 +8,7 @@ Hey there 👋
 
 :man_technologist: &nbsp; I'm **Cloud/DevOps Engineer** and an **AWS Authorised Instructor - Champion**. I have been implementing, consulting and training on cloud for more than 4 years now.
 
-:open_book: &nbsp; My small contribution to community: [secureaws](https://github.com/paliwalvimal/secureaws "secureaws"), [terrablocks](https://github.com/terrablocks "terrablocks")
+:open_book: &nbsp; My small contribution to community: [secureaws](https://github.com/paliwalvimal/secureaws "secureaws"), [terrablocks](https://github.com/terrablocks "terrablocks"), [aws-iam-key-rotator](https://github.com/paliwalvimal/aws-iam-key-rotator "aws-iam-key-rotator")
 
 ***
 
