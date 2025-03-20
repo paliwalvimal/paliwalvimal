@@ -6,7 +6,7 @@
 
 Hey there 👋
 
-:man_technologist: &nbsp; I'm **Cloud/DevSecOps Practitioner**, **AI/ML enthusiast** and used to be an **AWS Authorised Instructor - Champion**. I have been implementing, consulting and training on cloud for more than 8 years now.
+:man_technologist: &nbsp; I'm a **Cloud/DevSecOps Practitioner**, **AI/ML enthusiast**, **AWS Community Builder** and used to be an **AWS Authorised Instructor - Champion**. I have been playing with cloud technologies for more than 8 years now.
 
 :open_book: &nbsp; My small contribution to community: [aws-iam-key-rotator](https://github.com/paliwalvimal/aws-iam-key-rotator "aws-iam-key-rotator"), [terrablocks](https://github.com/terrablocks "terrablocks"), [secureaws](https://github.com/paliwalvimal/secureaws "secureaws")
 
@@ -14,12 +14,14 @@ Hey there 👋
 
 ### Credentials:
 <p align="center">
-    <img width=120 src="https://vimalpaliwal.com/images/certificates/aws-sap.png" /> &nbsp; 
-    <img width=120 src="https://vimalpaliwal.com/images/certificates/aws-ss.png" /> &nbsp; 
-    <img width=120 src="https://vimalpaliwal.com/images/certificates/aws-saa.png" /> &nbsp; 
-    <img width=120 src="https://vimalpaliwal.com/images/certificates/aws-da.png" /> &nbsp; 
-    <img width=120 src="https://vimalpaliwal.com/images/certificates/aws-soa.png" /> &nbsp; 
-    <img width=120 src="https://vimalpaliwal.com/images/certificates/k8s-cka.svg" /> &nbsp; 
+    <img width=120 src="https://github.com/paliwalvimal/paliwalvimal/blob/8ddaaa3330e2f7d7933fad85447002fd6403ef88/logos/aws-sap.png" /> &nbsp; 
+    <img width=120 src="https://github.com/paliwalvimal/paliwalvimal/blob/8ddaaa3330e2f7d7933fad85447002fd6403ef88/logos/aws-dop.png" /> &nbsp; 
+    <img width=120 src="https://github.com/paliwalvimal/paliwalvimal/blob/8ddaaa3330e2f7d7933fad85447002fd6403ef88/logos/aws-ss.png" /> &nbsp; 
+    <img width=120 src="https://github.com/paliwalvimal/paliwalvimal/blob/8ddaaa3330e2f7d7933fad85447002fd6403ef88/logos/aws-saa.png" /> &nbsp; 
+    <img width=120 src="https://github.com/paliwalvimal/paliwalvimal/blob/8ddaaa3330e2f7d7933fad85447002fd6403ef88/logos/aws-da.png" /> &nbsp; 
+    <img width=120 src="https://github.com/paliwalvimal/paliwalvimal/blob/8ddaaa3330e2f7d7933fad85447002fd6403ef88/logos/aws-soa.png" /> &nbsp; 
+    <img width=120 src="https://github.com/paliwalvimal/paliwalvimal/blob/8ddaaa3330e2f7d7933fad85447002fd6403ef88/logos/k8s-cka.png" /> &nbsp; 
+    <img width=120 src="https://github.com/paliwalvimal/paliwalvimal/blob/8ddaaa3330e2f7d7933fad85447002fd6403ef88/logos/k8s-cks.png" /> &nbsp; 
 </p>
 
 ***
@@ -59,12 +61,12 @@ Hey there 👋
 <table>
     <tr>
         <td>
-            <h4><a href="https://skildops.com/blog/optimise-and-secure-aws-http-api-gateway-by-locking-down-direct-access">Optimise and Secure AWS HTTP API Gateway by locking down direct access</a></h4>
-            <p>Dive in to learn one of the essential and efficient techniques to safeguard AWS HTTP API Gateway in this insightful guide</p>
-            <p><a href="https://skildops.medium.com/optimise-and-secure-aws-http-api-gateway-by-locking-down-direct-access-d82de63819b2">Read this article :point_right:</a></p>
+            <h4><a href="https://skildops.com/blog/demystifying-an-interesting-relation-between-ecr-and-s3">Demystifying an interesting relation between ECR and S3</a></h4>
+            <p>Explore the critical link between Amazon ECR and S3 and learn how to prevent disruptions in pulling images from ECR</p>
+            <p><a href="https://skildops.com/blog/demystifying-an-interesting-relation-between-ecr-and-s3">Read this article :point_right:</a></p>
             <p><a href="https://skildops.com/blog">Checkout other blogs</a></p>
         </td>
-        <td><a href="https://vimalpaliwal.medium.com/optimise-and-secure-aws-http-api-gateway-by-locking-down-direct-access-bba3306ba5ec"><img width=700 src="https://images.squarespace-cdn.com/content/v1/617cbd45c91b7574a312f690/9cfde420-0883-4c87-ae83-576385836ee3/main.jpg" /></a></td>
+        <td><a href="https://skildops.com/blog/demystifying-an-interesting-relation-between-ecr-and-s3"><img width=700 src="https://images.squarespace-cdn.com/content/v1/617cbd45c91b7574a312f690/5c57194b-ad56-4b33-a6e4-58e6b525e007/main.jpg" /></a></td>
     </tr>
 </table>
 
